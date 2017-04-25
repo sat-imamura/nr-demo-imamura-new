@@ -1,6 +1,6 @@
 applications:
 - path: .
-  memory: 896M
+  memory: 1500M
   instances: 1
   domain: mybluemix.net
   name: nr-demo-imamura
